@@ -8,19 +8,22 @@ Tu as un exemple ici => https://hubert-le-lapin-6f94e3efd3fa.herokuapp.com/
 Voici la structure actuelle du projet
 
 /
-├─ node_modules/
-├─ app/
-│  └─ router.js
-├─ public/
-│  ├─ css/
-│  │  ├─ style.css
-│  │  └─ reset.css
-│  └─ img/
-|     └─ background.png
-├─ .gitignore
-├─ .env
-├─ index.js
-└─ package.json
+│
+├── app/
+│   ├── controllers.js
+│   ├── middlewares.js
+│   ├── partials.js
+│   └── router.js
+│
+├── public/
+│   ├── css/
+│   └── img/
+│
+├── .gitignore
+├── .env.example
+├── index.js
+└── package.json
+
 
 /
 │
