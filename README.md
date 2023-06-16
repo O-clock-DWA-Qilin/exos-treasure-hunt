@@ -6,7 +6,7 @@ Tu as un exemple ici => https://hubert-le-lapin-6f94e3efd3fa.herokuapp.com/
 ## Exercice 1 - Comprendre l'existant
 
 Voici la structure actuelle du projet
-
+```
 /
 │
 ├── app/
@@ -23,7 +23,7 @@ Voici la structure actuelle du projet
 ├── .env.example
 ├── index.js
 └── package.json
-
+```
 - `/ :` Racine du projet, contient tous les autres fichiers et dossiers.
 - `app/ :` Contient le code de l'application Express.
     - `controllers.js :` Gère les requêtes d'une route spécifique entrantes et génère les réponses.
