@@ -24,24 +24,6 @@ Voici la structure actuelle du projet
 ├── index.js
 └── package.json
 
-
-/
-│
-├── app/
-│   ├── controllers.js
-│   ├── middlewares.js
-│   ├── partials.js
-│   └── router.js
-│
-├── public/
-│   ├── css/
-│   └── img/
-│
-├── .gitignore
-├── .env.example
-├── index.js
-└── package.json
-
 - `/ :` Racine du projet, contient tous les autres fichiers et dossiers.
 - `app/ :` Contient le code de l'application Express.
     - `controllers.js :` Gère les requêtes d'une route spécifique entrantes et génère les réponses.
