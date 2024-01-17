@@ -71,7 +71,7 @@ export const volcanoContent = `
 `
 
 export const oceanContent = `
-    <! -- Tu ne regarde pas au bon endroit -->
+    <! -- Quel est ce langage codé, je n'y comprends rien. Un véritable brainfuck. -->
     <div class="container">
         <body>
             <h1>Hubert et l'ocean</h1>
